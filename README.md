@@ -1,4 +1,4 @@
-# ⚡ UltraFastSharing v1.1.0 // The Ultimate Local Vault
+# ⚡ UltraFastSharing v1.1.0
 
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)
 ![License: Proprietary Freeware](https://img.shields.io/badge/License-Proprietary_Freeware-red.svg)
