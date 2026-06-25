@@ -4,7 +4,7 @@
 ![License: Proprietary Freeware](https://img.shields.io/badge/License-Proprietary_Freeware-red.svg)
 ![Offline: 100%](https://img.shields.io/badge/Offline-100%25-orange.svg)
 
-**UltraFastSharing** is a secure, 100% offline, peer-to-peer file transfer utility that bridges the gap between your Windows PC and any mobile device. Built for speed and absolute privacy, it allows you to transfer unlimited file sizes across your local network (Wi-Fi or USB tethering) without ever touching the cloud.
+**UltraFastSharing** is a is a cutting-edge, secure, 100% offline, peer-to-peer (P2P) file transfer utility that bridges the gap between your Windows PC and any mobile device. Built for maximum speed and absolute privacy and offline capability, it allows to transfer unlimited file sizes across local network (Wi-Fi or USB tethering) without ever touching the cloud.
 
 ---
 
