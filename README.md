@@ -80,4 +80,4 @@ A standalone executable perfect for USB drives or strict environments.
 
 ---
 
-*Crafted with code and coffee.*
+*Enjoy*
