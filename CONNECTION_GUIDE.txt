@@ -1,0 +1,33 @@
+# PC-to-PC Wireless Connection Guide
+
+## Using Windows Mobile Hotspot
+*   **Step 1:** Open UltraFastSharing on the main laptop (PC A) where the files are stored.
+*   **Step 2:** Click the "📡 Windows Hotspot" button on the dashboard. This instantly opens your Windows Settings.
+*   **Step 3:** Toggle the "Mobile hotspot" switch to ON. Note the network name and password displayed on that page.
+*   **Step 4:** On the receiving laptop (PC B), open the Wi-Fi menu and connect to the Hotspot network you just created.
+*   **Step 5:** Once connected, look at the UltraFastSharing app on PC A. A new IP address will appear in the Mobile Access URLs list (usually starting with 192.168.137.x).
+*   **Step 6:** Open Google Chrome or Microsoft Edge on PC B, type in that exact IP address, and press Enter to instantly access the transfer vault.
+
+## Using Bluetooth PAN (Personal Area Network)
+*   **Step 1:** Open UltraFastSharing on the main laptop (PC A).
+*   **Step 2:** Click the "🦷 Bluetooth PAN" button on the dashboard to open Bluetooth settings.
+*   **Step 3:** Ensure Bluetooth is turned ON for both PC A and PC B.
+*   **Step 4:** Pair PC A and PC B together by clicking "Add device" -> "Bluetooth".
+*   **Step 5:** Once paired, open the "Control Panel" on PC B, navigate to "Devices and Printers" or "Network Connections".
+*   **Step 6:** Right-click on PC A's Bluetooth device icon, and select "Connect using -> Access point" or "Join a Personal Area Network".
+*   **Step 7:** Windows will automatically negotiate a Bluetooth network connection and assign a local IP address.
+*   **Step 8:** Check the UltraFastSharing app on PC A for the new Bluetooth IP address and type it into the web browser on PC B to start transferring files over the Bluetooth bridge.
+
+## Using Thunderbolt 3/4 Networking (The 20Gbps God-Tier Method)
+*   **Step 1:** If both laptops have a Thunderbolt 3 or Thunderbolt 4 USB-C port, take a high-quality Thunderbolt cable and plug it directly from PC A into PC B.
+*   **Step 2:** Windows will instantly recognize the connection as a "Thunderbolt Networking" interface.
+*   **Step 3:** This acts exactly like a hardwired Ethernet cable, but at blazing 10Gbps or 20Gbps speeds!
+*   **Step 4:** Look at the UltraFastSharing dashboard on PC A for the new IP address, and type it into PC B's browser. You can now transfer 100GB files in seconds.
+
+## Using a Smartphone as a Bridge Router
+*   **Step 1:** Turn on the Wi-Fi Mobile Hotspot on your Android or iPhone.
+*   **Step 2:** Connect both PC A and PC B to the phone's Wi-Fi network.
+*   **Step 3:** Since both PCs are now on the same local network (hosted by your phone), UltraFastSharing will display an IP address. 
+*   **Step 4:** PC B can simply type that IP into the browser and instantly transfer files. (This also works by USB-tethering the phone to PC A, while PC B connects via Wi-Fi).
+
+This guide provides exactly what you need to wirelessly or directly bridge two laptops using every modern networking protocol available.
