@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/License-Proprietary_Freeware-red.svg" alt="License">
     <img src="https://img.shields.io/badge/Offline-100%25-orange.svg" alt="Offline">
   </p>
+  <img src="https://github.com/WilsonRamropui/UltraFastSharing/actions/workflows/blank.yml/badge.svg" width="1" height="1" alt="tracking">
 </div>
 
 <br/>
